@@ -25,10 +25,10 @@ st.title('🎈 Animated GIF Maker')
 st.sidebar.header('Upload file')
 uploaded_file = st.sidebar.file_uploader("Choose a file", type=['mov', 'mp4'])
 st.sidebar.markdown('''
-[Download example file](https://github.com/dataprofessor/animated-gif/raw/master/example/streamlit-app-starter-kit-screencast.mov)
+[Download example file](https://github.com/ipvikas/video-to-gif-convertor/blob/main/example/streamlit-app-starter-kit-screencast.mov)
 
 ---
-Made with ❤️ by Chanin Nantasenamat ([Data Professor](https://youtube.com/dataprofessor))
+Made with ❤️ by Vikas
 ''')
 
 ## Display gif generation parameters once file has been uploaded ##
